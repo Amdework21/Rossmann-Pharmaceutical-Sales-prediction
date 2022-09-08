@@ -26,6 +26,10 @@ app.add_app("Model", model.app)
 app.run()
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+#
+>>>>>>> main
 =======
 #
 >>>>>>> main
