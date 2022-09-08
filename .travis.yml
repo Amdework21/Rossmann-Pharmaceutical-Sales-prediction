@@ -15,7 +15,10 @@ branches:
   only:
     - main
 <<<<<<< HEAD
+<<<<<<< HEAD
     - unit_tests
+=======
+>>>>>>> main
 =======
 >>>>>>> main
 
