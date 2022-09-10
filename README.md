@@ -1,26 +1,26 @@
 
-<h1 align="center">Rossmann-Pharmaceutical-Sales-Prediction</h1>
+<h1 align="center">rossmann-pharmaceutical-sales-prediction</h1>
 <div>
 <a href="https://github.com/Amdework21/rossmann-pharmaceutical-sales-prediction/"><img src="https://img.shields.io/github/forks/Amdework21/rossmann-pharmaceutical-sales-prediction" alt="Forks Badge"/></a>
-<a href="https://github.com/Abel-Blue/pharmaceutical-sales-prediction/pulls"><img src="https://img.shields.io/github/issues-pr/Abel-Blue/pharmaceutical-sales-prediction" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Abel-Blue/pharmaceutical-sales-prediction/issues"><img src="https://img.shields.io/github/issues/Abel-Blue/pharmaceutical-sales-prediction" alt="Issues Badge"/></a>
-<a href="https://github.com/Abel-Blue/pharmaceutical-sales-prediction/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Abel-Blue/pharmaceutical-sales-prediction?color=2b9348"></a>
-<a href="https://github.com/Abel-Blue/pharmaceutical-sales-prediction/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Abel-Blue/pharmaceutical-sales-prediction?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/Amdework21/rossmann-pharmaceutical-sales-prediction/pulls"><img src="https://img.shields.io/github/issues-pr/Amdework21/rossmann-pharmaceutical-sales-prediction" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Amdework21/rossmann-pharmaceutical-sales-prediction/issues"><img src="https://img.shields.io/github/issues/Amdework21/rossmann-pharmaceutical-sales-prediction" alt="Issues Badge"/></a>
+<a href="https://github.com/Amdework21/rossmann-pharmaceutical-sales-prediction/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Amdework21/rossmann-pharmaceutical-sales-prediction?color=2b9348"></a>
+<a href="https://github.com/Amdework21/rossmann-pharmaceutical-sales-prediction/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Amdework21/rossmann-pharmaceutical-sales-prediction?color=2b9348" alt="License Badge"/></a>
 </div>
 
 </br>
 
-![drug-image](https://www.afd.fr/sites/afd/files/styles/visuel_principal/public/2019-10-09-27-46/flickr-marco-verch.jpg?itok=XH4x7-Y4)
+![drug-image](https://raw.githubusercontent.com/Amdework21/rossmann-pharmaceutical-sales-prediction/images/pharmacy.png)
 
 ## Data visualization link
-- [visualization link](https://share.streamlit.io/abel-blue/pharmaceutical-sales-prediction/main/app.py)
+- [visualization link](https://share.streamlit.io/Amdework21/rossmann-pharmaceutical-sales-prediction/main/app.py)
 
 ## Articles
-- [Medium Article](https://medium.com/@Abel-Blue/pharmaceutical-sales-prediction-using-a-deep-learning-model-92d7d1e9626b)
+- [Medium Article](https://medium.com/@Amdework21/rossmann-pharmaceutical-sales-prediction-using-a-deep-learning-model-92d7d1e9626b)
 
 ## Table of Contents
 
-* [Rossmann-Pharmaceuticals-Sales-Prediction](#pharmaceutical-sales-prediction)
+* [Rossmann-Pharmaceuticals-Sales-Prediction](#rossmann-pharmaceutical-sales-prediction)
 
   - [Introduction](##Introduction)
   - [Project Structure](#project-structure)
@@ -110,7 +110,7 @@
 ## Installation guide
 
 ```bash
-git clone https://github.com/Abel-Blue/pharmaceutical-sales-prediction.git
-cd pharmaceutical-sales-prediction
+git clone https://github.com/Amdework21/rossmann-pharmaceutical-sales-prediction.git
+cd rossmann-pharmaceutical-sales-prediction
 sudo python3 setup.py install
 ```
