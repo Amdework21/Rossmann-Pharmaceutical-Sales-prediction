@@ -1,7 +1,7 @@
 
 <h1 align="center">Rossmann Pharmaceutical Sales Prediction</h1>
 <div>
-<a href="https://github.com/Amdework21/Rossmann-Pharmaceutical-Sales-prediction"><img src="https://img.shields.io/github/forks/Amdework21/Rossmann-Pharmaceutical-Sales-Prediction" alt="Forks Badge"/></a>
+<a href="https://github.com/Amdework21/Rossmann-Pharmaceutical-Sales-prediction"><img src="https://raw.githubusercontent.com/Amdework21/Rossmann-Pharmaceutical-Sales-prediction/ml-model/images/pharmacy.png" alt="Forks Badge"/></a>
 <a href="https://github.com/Amdework21/Rossmann-Pharmaceutical-Sales-prediction/pulls"><img src="https://img.shields.io/github/issues-pr/Amdework21/Rossmann-pharmaceutical-sales-prediction" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Amdework21/Rossmann-pharmaceutical-sales-prediction/issues"><img src="https://img.shields.io/github/issues/Amdework21/Rossmann-pharmaceutical-sales-prediction" alt="Issues Badge"/></a>
 <a href="https://github.com/Amdework21/Rossmann-pharmaceutical-sales-prediction/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Amdework21/Rossmann-pharmaceutical-sales-prediction?color=2b9348"></a>
