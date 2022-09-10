@@ -28,8 +28,8 @@ requirements = req_list
 test_requirements = ['pytest>=3']
 
 setup(
-    author="Abel Mitiku",
-    email="abelmitikugetnet2020@gmail.com",
+    author="Amdework Asefa",
+    email="amdeamd7@gmail.com",
     python_requires='>=3.7',
     classifiers=[
         'Development Status :: 2 - Pre-Beta',
@@ -50,7 +50,7 @@ setup(
                                     'tests', 'notebooks', 'models']),
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/Abel-Blue/pharmaceutical-sales-prediction',
+    url='https://github.com/Amdework21/Rossmann-Pharmaceutical-Sales-prediction',
     version='1.0.0',
     zip_safe=False,
 )
