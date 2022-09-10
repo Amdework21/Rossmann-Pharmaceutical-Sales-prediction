@@ -10,7 +10,7 @@
 
 </br>
 
-![drug-image](https://raw.githubusercontent.com/Amdework21/rossmann-pharmaceutical-sales-prediction/images/pharmacy.png)
+![drug-image](https://raw.githubusercontent.com/Amdework21/rossmann-pharmaceutical-sales-prediction/ml-model/images/pharmacy.png)
 
 ## Data visualization link
 - [visualization link](https://share.streamlit.io/Amdework21/rossmann-pharmaceutical-sales-prediction/main/app.py)
