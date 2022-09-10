@@ -1,7 +1,7 @@
 
-<h1 align="center">Rossmann Pharmaceutical Sales Prediction</h1>
+<h1 align="center">Rossmann-Pharmaceutical-Sales-Prediction</h1>
 <div>
-<a href="https://github.com/Abel-Blue/pharmaceutical-sales-prediction/network/members"><img src="https://img.shields.io/github/forks/Abel-Blue/pharmaceutical-sales-prediction" alt="Forks Badge"/></a>
+<a href="https://github.com/Amdework21/rossmann-pharmaceutical-sales-prediction/"><img src="https://github.com/Amdework21/rossmann-pharmaceutical-sales-prediction/images/pharmacy.png" alt="Forks Badge"/></a>
 <a href="https://github.com/Abel-Blue/pharmaceutical-sales-prediction/pulls"><img src="https://img.shields.io/github/issues-pr/Abel-Blue/pharmaceutical-sales-prediction" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Abel-Blue/pharmaceutical-sales-prediction/issues"><img src="https://img.shields.io/github/issues/Abel-Blue/pharmaceutical-sales-prediction" alt="Issues Badge"/></a>
 <a href="https://github.com/Abel-Blue/pharmaceutical-sales-prediction/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Abel-Blue/pharmaceutical-sales-prediction?color=2b9348"></a>
