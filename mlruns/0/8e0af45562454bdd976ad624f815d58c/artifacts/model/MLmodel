@@ -13,4 +13,4 @@ flavors:
 mlflow_version: 1.26.0
 model_uuid: d5c664a3e6364f75b7e035f3c828dec1
 run_id: 8e0af45562454bdd976ad624f815d58c
-utc_time_created: '2022-05-26 04:29:41.503634'
+utc_time_created: '2022-09-10 04:29:41.503634'
