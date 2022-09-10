@@ -1,4 +1,4 @@
-artifact_uri: C:\Users\amdea\Documents\Python_Scripts\10Academy\Rossmann-Pharmaceutical-Sales-prediction
+artifact_uri: C:\Users\amdea\Documents\Python_Scripts\10Academy\Rossmann-Pharmaceutical-Sales-prediction\mlruns\0\8e0af45562454bdd976ad624f815d58c\artifacts
 end_time: 1653539389395
 entry_point_name: ''
 experiment_id: '0'
@@ -12,4 +12,4 @@ source_version: ''
 start_time: 1653539381455
 status: 3
 tags: []
-user_id: Amdework21
+user_id: Amdework-Asefa
