@@ -32,7 +32,8 @@
     * [tests](#tests)
     * [logs](#logs)
     * [root folder](#root-folder)
-  - [Installation guide](#installation-guide)
+  - [Installation guide for windows](#installation-guide-for-windows)
+  - [Installation guide for linux](#installation-guide-for-linux)
 
 ## Introduction
 
@@ -107,7 +108,14 @@
 - `README.md`: Markdown text with a brief explanation of the project and the repository structure.
 - `Dockerfile`: build users can create an automated build that executes several command-line instructions in a container.
 
-## Installation guide
+## Installation guide for windows
+
+```bash
+git clone https://github.com/Amdework21/rossmann-pharmaceutical-sales-prediction.git
+cd rossmann-pharmaceutical-sales-prediction
+pip install python3 setup.py
+```
+## Installation guide for Linux
 
 ```bash
 git clone https://github.com/Amdework21/rossmann-pharmaceutical-sales-prediction.git
