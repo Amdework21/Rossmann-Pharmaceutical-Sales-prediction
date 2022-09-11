@@ -16,7 +16,7 @@
 - [visualization link](https://share.streamlit.io/Amdework21/rossmann-pharmaceutical-sales-prediction/main/app.py)
 
 ## Articles
-- [Medium Article](https://medium.com/@Amdework21/rossmann-pharmaceutical-sales-prediction-using-a-deep-learning-model-92d7d1e9626b)
+- [Medium Article](https://medium.com/@amdeamd7/rossmann-pharmaceutical-sales-prediction-a-deep-learning-approach-9c4434fc809c)
 
 ## Table of Contents
 
